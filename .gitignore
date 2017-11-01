@@ -1,0 +1,13 @@
+# Ignore everything
+*
+!*/
+
+# But not these files...
+!.gitignore
+!README.md
+!blueprints/**
+!config/**
+!eula.txt
+!mods/_mods.md5
+!server.properties
+!Yg0R2s_World/**

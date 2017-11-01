@@ -1,0 +1,1 @@
+# Minecraft saves and configs.
